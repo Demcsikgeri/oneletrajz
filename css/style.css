@@ -1,17 +1,22 @@
 aside{
+  display: block;
+  float: left;
   background-color: #008db9;
   width: 300px;
   margin-top: 15px;
-  margin-left: 50px
+  margin-left: 50px;
+  margin-bottom: 20px
 }
 article{
+  display: block;
+  float: left;
   background-color: #00546f;
+  width: 600px;
+  margin-top: 15px;
+  margin-bottom: 20px
 }
 body{
   background-color: #b2cbd3;
-}
-h1, h3{
-  text-align: center;
 }
 .yel{
   color: yellow;
@@ -50,7 +55,6 @@ hr{
 }
 span{
   font-size: 1.2em;
-  padding-left: 10px
 }
 a{
   font-size: 1.2em;
@@ -58,4 +62,46 @@ a{
 }
 .big{
   font-size: 1.8em
+}
+.more{
+  font-size: 1.2em
+}
+.mid{
+  text-align: center;
+}
+.mov{
+  padding-left: 50px
+}
+.move{
+  padding-left: 10px
+}
+ol{
+  list-style-type: disc;
+}
+.lit{
+  font-size: 0.8em
+}
+td{
+  padding: 0 5px
+}
+.up{
+  padding-top: 5px
+}
+.but{
+  padding-bottom: 5px
+}
+.butt{
+  padding-bottom: 15px
+}
+.pull{
+  padding-left: 25px
+}
+.bac{
+  padding-right: 25px
+}
+.ave{
+  font-size: 1.4em
+}
+ul{
+  list-style-type: none;
 }
