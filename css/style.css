@@ -1,0 +1,61 @@
+aside{
+  background-color: #008db9;
+  width: 300px;
+  margin-top: 15px;
+  margin-left: 50px
+}
+article{
+  background-color: #00546f;
+}
+body{
+  background-color: #b2cbd3;
+}
+h1, h3{
+  text-align: center;
+}
+.yel{
+  color: yellow;
+  margin: 0;
+  padding: 2;
+}
+.grn{
+  color: #6cb54b;
+  margin: 0;
+  padding: 2;
+}
+.gry{
+  color: #a39992;
+  margin: 0;
+  padding: 2;
+}
+.whi{
+  color: white;
+  margin: 0;
+  padding: 2;
+}
+.in{
+  padding: 0 15px;
+}
+.box{
+  padding: 5px;
+  background-color: #b2cbd3;
+  color: black;
+}
+.img{
+  padding-left: 40px;
+  padding-top: 10px
+}
+hr{
+  color: white
+}
+span{
+  font-size: 1.2em;
+  padding-left: 10px
+}
+a{
+  font-size: 1.2em;
+  padding-left: 10px
+}
+.big{
+  font-size: 1.8em
+}
